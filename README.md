@@ -1,16 +1,37 @@
-## Hi there 👋
+# Lorenzo Della Matera
 
-<!--
-**lorenzodella/lorenzodella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍🎓 About Me
 
-Here are some ideas to get you started:
+🎓 **Master’s student** in **Computer Science and Engineering** at **Politecnico di Milano**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Embedded Systems & Edge AI enthusiast
+
+⚡ Fast learner, tech-driven, and always curious about building, experimenting, and learning something new 🚀
+
+---
+
+## 🔧 Skills 
+
+[![](https://skillicons.dev/icons?i=c,cpp,python,java,androidstudio,arduino,mysql,git,latex,pytorch,html,css,js)](https://skillicons.dev)
+
+---
+
+## 📚 Education
+
+- **Master’s in Computer Science and Engineering**  
+  Politecnico di Milano, Italy (2024–2026)
+
+- **Bachelor’s in Computer Engineering**  
+  Politecnico di Milano, Italy (2021–2024)
+
+---
+
+## 📫 Contacts
+
+- **Email**: [dellamateralorenzo@gmail.com](mailto:dellamateralorenzo@gmail.com)
+- **LinkedIn**: [Lorenzo Della Matera](https://www.linkedin.com/in/lorenzo-della-matera/)
+- **GitHub**: [lorenzodella](https://github.com/lorenzodella)
+
+---
+
+Tough times never last, only tough people last 🚀
